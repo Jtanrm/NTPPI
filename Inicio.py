@@ -36,6 +36,8 @@ with col3:
     st.image("./static/user.png", width=200)  # Reemplaza con la ruta de la foto
     st.write("**JHONATAN RODRIGUEZ MUÑOZ**")
     st.write("[Rol en el proyecto]")
+    
+    
 
 # Descripción del proyecto
 st.header("Sobre el Proyecto")
